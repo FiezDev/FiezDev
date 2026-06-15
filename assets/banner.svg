@@ -62,7 +62,7 @@
 
   <!-- domains (what I build — identity, not a job title) -->
   <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="640" y="228" text-anchor="middle" font-size="19" font-weight="600"
-        letter-spacing="7" fill="#9fb3c0">WEB&#160;&#160;·&#160;&#160;AI&#160;&#160;·&#160;&#160;IOT&#160;&#160;·&#160;&#160;AGENTS</text>
+        letter-spacing="6" fill="#9fb3c0">WEB&#160;&#160;·&#160;&#160;AI&#160;&#160;·&#160;&#160;AGENTS&#160;&#160;·&#160;&#160;AUTOMATION</text>
 
   <!-- motto -->
   <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="640" y="276" text-anchor="middle" font-size="16" font-weight="600"

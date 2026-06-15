@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-I build across <b>web · AI · IoT</b> — production SaaS platforms, GraphQL backends, computer-vision pipelines, and multi-agent AI systems. I like turning messy real-world problems into things that <b>ship, run, and last</b>. Self-taught, relentlessly curious, and powered by a steady diet of ramen and juice.
+I build across <b>web, AI, and automation</b> — multi-agent AI systems, content-automation platforms, and the side projects I can't stop tinkering with. I like turning messy real-world problems into things that <b>ship, run, and last</b>. Self-taught, relentlessly curious, and powered by a steady diet of ramen and juice.
 </p>
 
 <div align="center">
@@ -33,35 +33,6 @@ I build across <b>web · AI · IoT</b> — production SaaS platforms, GraphQL ba
 <tr>
 
 <td width="50%" valign="top">
-<h3>🌾 RiceGuard — Agritech IoT + AI</h3>
-<p>Crop-monitoring platform: ops &amp; AI-Ops consoles, a GraphQL API, and the
-full AWS production infrastructure — field telemetry → MQTTS → RabbitMQ →
-TimescaleDB — shipped as idempotent infrastructure-as-code.</p>
-<p><sub><b>8 GraphQL domains · 44 idempotent migrations · 4-tier alerting · 13 sister microservice repos</b></sub></p>
-<p><code>TypeScript</code> <code>GraphQL</code> <code>AWS</code> <code>TimescaleDB</code> <code>RabbitMQ</code></p>
-</td>
-
-<td width="50%" valign="top">
-<h3>🚗 STAR Search Engine — Applied Computer Vision</h3>
-<p>Vehicle &amp; person recognition at scale — the recognition models plus the
-human-in-the-loop review/labeling tooling and GPU data pipeline that feed them.</p>
-<p><sub><b>108k-row label pipeline over 54k images · per-labeler accuracy scoring</b></sub></p>
-<p><code>Python</code> <code>PyTorch</code> <code>React</code> <code>Redis</code></p>
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-<h3>🪪 NT Tag-ID — National Platform</h3>
-<p>National tag-ID platform for NT (National Telecom Thailand) spanning web,
-mobile, and API tiers — a high-performance Rust core with a Django ETL &amp;
-analytics pipeline.</p>
-<p><sub><b>Rust API · Svelte / Vue clients · Django ETL &amp; analytics pipeline</b></sub></p>
-<p><code>Rust</code> <code>Svelte</code> <code>Vue</code> <code>Django</code></p>
-</td>
-
-<td width="50%" valign="top">
 <h3>🤖 AtEase — AI Content Automation</h3>
 <p>A visual node-graph workflow builder that turns one idea into multi-platform
 posts — multi-agent execution, human-approval gates, and auto-publishing.
@@ -69,9 +40,6 @@ Running in production behind a live AI-news page.</p>
 <p><sub><b>In production · multi-agent pipeline · per-step approval gates</b></sub></p>
 <p><code>TypeScript</code> <code>React</code> <code>Bun</code> <code>LLMs</code> <code>Playwright</code></p>
 </td>
-
-</tr>
-<tr>
 
 <td width="50%" valign="top">
 <h3>🔮 Oracle / Zenith — Multi-Agent AI Framework</h3>
@@ -86,12 +54,50 @@ persistent file-based memory, retrospectives, and cross-agent knowledge sharing.
 </p>
 </td>
 
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<h3>🧰 ORG-TOOLS — Engineering Docs Platform</h3>
+<p>Turns Jira projects into versioned ISO documentation — architecture diagrams,
+screenshots, and exportable Word docs — with pgvector semantic search and
+zero-knowledge credential vaults.</p>
+<p><sub><b>Jira → versioned ISO docs · pgvector search · zero-knowledge vaults</b></sub></p>
+<p><code>TypeScript</code> <code>Bun</code> <code>React</code> <code>PostgreSQL</code></p>
+</td>
+
 <td width="50%" valign="top">
 <h3>📥 QuadOne — AI Inbox Triage</h3>
 <p>AI inbox triage for solo knowledge workers — turning a noisy inbox into a
 prioritized, actionable queue so the important things surface first.</p>
 <p><sub><b>Solo build · LLM-powered triage &amp; prioritization</b></sub></p>
 <p><code>TypeScript</code> <code>Next.js</code> <code>LLMs</code></p>
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<h3>✈️ FlightClone — Flight-Search Mini-App</h3>
+<p>A mini-site built to explore consuming complex APIs and try new React
+patterns, wired to the Amadeus flight API. <em>Open source, with a live demo.</em></p>
+<p><sub><b>Amadeus API · typed forms (Zod + React Query) · live demo</b></sub></p>
+<p><code>React</code> <code>TypeScript</code> <code>React Query</code></p>
+<p>
+<a href="https://github.com/FiezDev/FlightClone">FlightClone ↗</a> &nbsp;·&nbsp;
+<a href="https://flight.fiez.dev">flight.fiez.dev ↗</a>
+</p>
+</td>
+
+<td width="50%" valign="top">
+<h3>🛠️ git-doc — Git Work Summarizer</h3>
+<p>A tool that summarizes your yearly git work across multiple repositories,
+generating Excel reports with AI-powered summaries. <em>Open source.</em></p>
+<p><sub><b>Multi-repo · AI-summarized · Excel export</b></sub></p>
+<p><code>TypeScript</code> <code>Node.js</code> <code>LLMs</code></p>
+<p>
+<a href="https://github.com/FiezDev/git-doc">git-doc ↗</a>
+</p>
 </td>
 
 </tr>
