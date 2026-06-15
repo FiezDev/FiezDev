@@ -22,7 +22,7 @@ I build across <b>web · AI · IoT</b> — production SaaS platforms, GraphQL ba
 </p>
 
 <div align="center">
-<sub><i>“Passionate to make the remarkable thing.”</i> &nbsp;·&nbsp; ~3,800+ verified contributions across 2025–26</sub>
+<sub><i>“Passionate to make the remarkable thing.”</i> &nbsp;·&nbsp; 3,800+ verified contributions across 2025–26</sub>
 </div>
 
 <br>
@@ -37,7 +37,7 @@ I build across <b>web · AI · IoT</b> — production SaaS platforms, GraphQL ba
 <p>Crop-monitoring platform: ops &amp; AI-Ops consoles, a GraphQL API, and the
 full AWS production infrastructure — field telemetry → MQTTS → RabbitMQ →
 TimescaleDB — shipped as idempotent infrastructure-as-code.</p>
-<p><sub><b>8 GraphQL domains · 44 idempotent migrations · 4-tier alerting · 13 sister services</b></sub></p>
+<p><sub><b>8 GraphQL domains · 44 idempotent migrations · 4-tier alerting · 13 sister microservice repos</b></sub></p>
 <p><code>TypeScript</code> <code>GraphQL</code> <code>AWS</code> <code>TimescaleDB</code> <code>RabbitMQ</code></p>
 </td>
 
@@ -57,7 +57,7 @@ human-in-the-loop review/labeling tooling and GPU data pipeline that feed them.<
 <p>National tag-ID platform for NT (National Telecom Thailand) spanning web,
 mobile, and API tiers — a high-performance Rust core with a Django ETL &amp;
 analytics pipeline.</p>
-<p><sub><b>Rust API · Svelte / Vue clients · 70+ tables · ~97 services</b></sub></p>
+<p><sub><b>Rust API · Svelte / Vue clients · Django ETL &amp; analytics pipeline</b></sub></p>
 <p><code>Rust</code> <code>Svelte</code> <code>Vue</code> <code>Django</code></p>
 </td>
 
