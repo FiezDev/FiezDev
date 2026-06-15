@@ -67,9 +67,6 @@ prioritized, actionable queue so the important things surface first.</p>
 generating Excel reports with AI-powered summaries.</p>
 <p><sub><b>Multi-repo · AI-summarized · Excel export</b></sub></p>
 <p><code>TypeScript</code> <code>Node.js</code> <code>LLMs</code></p>
-<p>
-<a href="https://github.com/FiezDev/git-doc">git-doc ↗</a>
-</p>
 </td>
 
 </tr>
