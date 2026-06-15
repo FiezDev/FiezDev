@@ -61,6 +61,17 @@ prioritized, actionable queue so the important things surface first.</p>
 <p><code>TypeScript</code> <code>Next.js</code> <code>LLMs</code></p>
 </td>
 
+<td width="50%" valign="top">
+<h3>🛠️ git-doc — Git Work Summarizer</h3>
+<p>A tool that summarizes your yearly git work across multiple repositories,
+generating Excel reports with AI-powered summaries.</p>
+<p><sub><b>Multi-repo · AI-summarized · Excel export</b></sub></p>
+<p><code>TypeScript</code> <code>Node.js</code> <code>LLMs</code></p>
+<p>
+<a href="https://github.com/FiezDev/git-doc">git-doc ↗</a>
+</p>
+</td>
+
 </tr>
 </table>
 
