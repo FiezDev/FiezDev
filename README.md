@@ -75,10 +75,6 @@ generating Excel reports with AI-powered summaries. <em>Open source.</em></p>
 </tr>
 </table>
 
-<p align="center"><sub>🔓 <b>Open source:</b>
-<a href="https://github.com/FiezDev/git-doc">git-doc</a> ·
-<a href="https://github.com/FiezDev/portnext">portnext</a> (this portfolio) — and more on my profile.</sub></p>
-
 <br>
 
 ## 🛠 Tech Stack
