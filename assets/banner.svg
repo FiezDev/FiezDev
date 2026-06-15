@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Ittipol Vongapai — FiezDev. Passionate to make the remarkable thing.">
+  <defs>
+    <!-- site-exact gold gradients -->
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#eab308"/>
+      <stop offset="0.5" stop-color="#fbbf24"/>
+      <stop offset="1" stop-color="#ca8a04"/>
+    </linearGradient>
+    <linearGradient id="goldMotto" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ca8a04"/>
+      <stop offset="0.5" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#ca8a04"/>
+    </linearGradient>
+    <!-- subtle center glow over the dark backdrop -->
+    <radialGradient id="bg" cx="0.5" cy="0.42" r="0.75">
+      <stop offset="0" stop-color="#24333f"/>
+      <stop offset="0.6" stop-color="#1b262c"/>
+      <stop offset="1" stop-color="#141c21"/>
+    </radialGradient>
+    <linearGradient id="ridge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ca8a04" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fbbf24" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ca8a04" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- backdrop (self-contained: identical on GitHub light & dark) -->
+  <rect width="1280" height="320" fill="url(#bg)"/>
+
+  <!-- faint word-cloud motif (the portfolio's scattered-words identity) -->
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" fill="#fbbf24" opacity="0.05" font-weight="700" letter-spacing="2">
+    <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="120" y="70" font-size="26" transform="rotate(-18 120 70)">PASSION</text>
+    <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1010" y="64" font-size="30" transform="rotate(14 1010 64)">CREATE</text>
+    <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="250" y="250" font-size="24" transform="rotate(12 250 250)">BUILD</text>
+    <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="980" y="250" font-size="22" transform="rotate(-12 980 250)">CRAFT</text>
+    <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="60" y="180" font-size="20" transform="rotate(8 60 180)">CODE</text>
+    <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1150" y="170" font-size="20" transform="rotate(-10 1150 170)">SHIP</text>
+    <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="430" y="56" font-size="18" transform="rotate(-8 430 56)">DESIGN</text>
+    <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="760" y="60" font-size="18" transform="rotate(10 760 60)">SCALE</text>
+    <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="180" y="300" font-size="18" transform="rotate(-6 180 300)">SYSTEM</text>
+    <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1080" y="300" font-size="18" transform="rotate(8 1080 300)">FLOW</text>
+  </g>
+
+  <!-- subtle summit / peak motif at the baseline -->
+  <path d="M 300 320 L 470 232 L 545 268 L 640 206 L 735 268 L 810 232 L 980 320 Z"
+        fill="#22323d" opacity="0.7"/>
+  <path d="M 300 320 L 470 232 L 545 268 L 640 206 L 735 268 L 810 232 L 980 320"
+        fill="none" stroke="#fbbf24" stroke-opacity="0.22" stroke-width="1.5"/>
+  <!-- tiny crown peak above the name -->
+  <path d="M 624 60 L 640 36 L 656 60 L 648 60 L 640 48 L 632 60 Z" fill="url(#gold)" opacity="0.9"/>
+
+  <!-- handle -->
+  <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="640" y="92" text-anchor="middle" font-size="22" font-weight="700"
+        letter-spacing="9" fill="url(#gold)" opacity="0.9">F I E Z D E V</text>
+
+  <!-- name -->
+  <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="640" y="170" text-anchor="middle" font-size="68" font-weight="700"
+        letter-spacing="3" fill="url(#gold)">ITTIPOL VONGAPAI</text>
+
+  <!-- gold divider -->
+  <rect x="455" y="192" width="370" height="2" rx="1" fill="url(#ridge)"/>
+
+  <!-- domains (what I build — identity, not a job title) -->
+  <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="640" y="228" text-anchor="middle" font-size="19" font-weight="600"
+        letter-spacing="7" fill="#9fb3c0">WEB&#160;&#160;·&#160;&#160;AI&#160;&#160;·&#160;&#160;IOT&#160;&#160;·&#160;&#160;AGENTS</text>
+
+  <!-- motto -->
+  <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="640" y="276" text-anchor="middle" font-size="16" font-weight="600"
+        letter-spacing="5" fill="url(#goldMotto)" opacity="0.95">PASSIONATE TO MAKE THE REMARKABLE THING</text>
+</svg>
