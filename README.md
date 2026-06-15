@@ -42,22 +42,6 @@ Running in production behind a live AI-news page.</p>
 </td>
 
 <td width="50%" valign="top">
-<h3>🔮 Oracle / Zenith — Multi-Agent AI Framework</h3>
-<p>An identity &amp; shared-memory framework for a family of AI agents:
-persistent file-based memory, retrospectives, and cross-agent knowledge sharing.
-<em>Open source.</em></p>
-<p><sub><b>Persistent memory · multi-agent orchestration · MCP + Claude Code SDK</b></sub></p>
-<p><code>Python</code> <code>TypeScript</code> <code>MCP</code></p>
-<p>
-<a href="https://github.com/FiezDev/artemis-oracle">artemis-oracle ↗</a> &nbsp;·&nbsp;
-<a href="https://github.com/FiezDev/shared-memory">shared-memory ↗</a>
-</p>
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
 <h3>🧰 ORG-TOOLS — Engineering Docs Platform</h3>
 <p>Turns Jira projects into versioned ISO documentation — architecture diagrams,
 screenshots, and exportable Word docs — with pgvector semantic search and
@@ -66,27 +50,15 @@ zero-knowledge credential vaults.</p>
 <p><code>TypeScript</code> <code>Bun</code> <code>React</code> <code>PostgreSQL</code></p>
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 <h3>📥 QuadOne — AI Inbox Triage</h3>
 <p>AI inbox triage for solo knowledge workers — turning a noisy inbox into a
 prioritized, actionable queue so the important things surface first.</p>
 <p><sub><b>Solo build · LLM-powered triage &amp; prioritization</b></sub></p>
 <p><code>TypeScript</code> <code>Next.js</code> <code>LLMs</code></p>
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-<h3>✈️ FlightClone — Flight-Search Mini-App</h3>
-<p>A mini-site built to explore consuming complex APIs and try new React
-patterns, wired to the Amadeus flight API. <em>Open source, with a live demo.</em></p>
-<p><sub><b>Amadeus API · typed forms (Zod + React Query) · live demo</b></sub></p>
-<p><code>React</code> <code>TypeScript</code> <code>React Query</code></p>
-<p>
-<a href="https://github.com/FiezDev/FlightClone">FlightClone ↗</a> &nbsp;·&nbsp;
-<a href="https://flight.fiez.dev">flight.fiez.dev ↗</a>
-</p>
 </td>
 
 <td width="50%" valign="top">
@@ -104,10 +76,7 @@ generating Excel reports with AI-powered summaries. <em>Open source.</em></p>
 </table>
 
 <p align="center"><sub>🔓 <b>Open source:</b>
-<a href="https://github.com/FiezDev/artemis-oracle">artemis-oracle</a> ·
-<a href="https://github.com/FiezDev/shared-memory">shared-memory</a> ·
 <a href="https://github.com/FiezDev/git-doc">git-doc</a> ·
-<a href="https://github.com/FiezDev/FlightClone">FlightClone</a> ·
 <a href="https://github.com/FiezDev/portnext">portnext</a> (this portfolio) — and more on my profile.</sub></p>
 
 <br>
