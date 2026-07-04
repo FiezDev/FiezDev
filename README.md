@@ -70,6 +70,19 @@ generating Excel reports with AI-powered summaries.</p>
 </td>
 
 </tr>
+
+<tr>
+<td colspan="2" valign="top">
+<h3>🧠 <a href="https://github.com/FiezDev/engram">engram</a> — Zero-Dependency AI Memory <sub>· open source</sub></h3>
+<p>A single-binary markdown memory for AI agents: a plain-markdown vault, BM25 search,
+and an MCP server that any harness (Claude Code, Codex) can query — with <b>zero
+third-party dependencies</b> (pure Rust std). The architecture was picked by an
+empirical benchmark, not taste.</p>
+<p><sub><b>Public · pure Rust std · MCP for Claude Code + Codex · chosen by benchmark</b></sub></p>
+<p><code>Rust</code> <code>MCP</code> <code>BM25</code> <code>Markdown</code></p>
+</td>
+</tr>
+
 </table>
 
 <br>
