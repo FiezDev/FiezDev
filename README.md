@@ -73,12 +73,12 @@ generating Excel reports with AI-powered summaries.</p>
 
 <tr>
 <td colspan="2" valign="top">
-<h3>🧠 <a href="https://github.com/FiezDev/engram">engram</a> — Zero-Dependency AI Memory <sub>· open source</sub></h3>
-<p>A single-binary markdown memory for AI agents: a plain-markdown vault, BM25 search,
-and an MCP server that any harness (Claude Code, Codex) can query — with <b>zero
-third-party dependencies</b> (pure Rust std). The architecture was picked by an
-empirical benchmark, not taste.</p>
-<p><sub><b>Public · pure Rust std · MCP for Claude Code + Codex · chosen by benchmark</b></sub></p>
+<h3>🧠 <a href="https://github.com/FiezDev/sealmind">sealmind</a> — Zero-Dependency AI Memory <sub>· open source</sub></h3>
+<p>A single-binary, <b>security-first</b> markdown memory for AI agents: a plain-markdown
+vault with BM25 facet search, a <code>[[wikilink]]</code> graph, and an MCP server (9 tools)
+any harness (Claude Code, Codex) can query — with <b>zero third-party dependencies</b>
+(pure Rust std). Vault-contained reads, path-traversal-guarded writes, parallel + incremental indexing.</p>
+<p><sub><b>Public · pure Rust std · security-first · MCP for Claude Code + Codex · v0.7.0</b></sub></p>
 <p><code>Rust</code> <code>MCP</code> <code>BM25</code> <code>Markdown</code></p>
 </td>
 </tr>
